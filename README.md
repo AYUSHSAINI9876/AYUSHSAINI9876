@@ -146,7 +146,7 @@ Single-page app enabling **pixel-perfect PDF export**, custom themes, font/color
  
 | Certificate | Issuer | Year |
 |:---|:---|:---:|
-| 🏅 **ICPSC S2** — Competitive Programming | Indian CP & Science Community | 2024 |
+| 🏅 **ICPSC S2** — Competitive Programming | Indian CP & Summer Camp Season 02 | 2024 |
 | 📜 **Full Stack Web Development** | Apna College | 2025 |
  
 ---
