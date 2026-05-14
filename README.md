@@ -1,19 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Ayush+Kumar+Saini;Incoming+Tech+Intern+%40Reachivy+%F0%9F%9A%80;Full+Stack+Developer+%2B+ML+Enthusiast;Competitive+Programmer+%F0%9F%A7%A0;IIT+Kharagpur+%7C+Chemistry+%2B+CS;1800%2B+Problems+Solved+%F0%9F%94%A5;Specialist+%40Codeforces+%7C+Knight+%40LeetCode;Silver+Medalist+%7C+GC+Tech+2026+%F0%9F%A5%88;Building+Real-Time+Systems+%26+WebRTC+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B+I'm+Ayush+Kumar+Saini;Full+Stack+Developer+%2B+ML+Enthusiast;Competitive+Programmer+%F0%9F%A7%A0;IIT+Kharagpur+%7C+Chemistry+%2B+CS;1800%2B+Problems+Solved+%F0%9F%94%A5;Specialist+%40Codeforces+%7C+Knight+%40LeetCode;Silver+Medalist+%7C+GC+Tech+2026+%F0%9F%A5%88;Building+Real-Time+Systems+%26+WebRTC+Apps" alt="Typing SVG" />
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=AYUSHSAINI9876&label=Profile+Views&color=0e75b6&style=flat-square" alt="views"/>
-&nbsp;
 <a href="https://codeforces.com/profile/Saini_Ayush"><img src="https://img.shields.io/badge/Codeforces-Specialist%20%7C%201537-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
-&nbsp;
 <a href="https://leetcode.com/u/AYUSH_SAINI_9876/"><img src="https://img.shields.io/badge/LeetCode-Knight%20%7C%201893-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Tech%20Intern-Reachivy-00C853?style=flat-square&logo=rocket&logoColor=white"/>
-&nbsp;
 <img src="https://img.shields.io/badge/ICPSC%20S2-CP%20Certified-blueviolet?style=flat-square"/>
-&nbsp;
 <img src="https://img.shields.io/badge/GC%20Tech%202026-%F0%9F%A5%88%20Silver%20Medal-C0C0C0?style=flat-square"/>
 
 </div>
@@ -24,9 +18,9 @@
 
 ```typescript
 const ayushSaini = {
-    title: "Incoming Tech Intern @ Reachivy",
+    title: "Full Stack Developer & Competitive Programmer",
     education: "B.S.(Hons.) Chemistry @ IIT Kharagpur",
-    location: "Kharagpur, West Bengal → Jhānsi, UP, India",
+    location: "Kharagpur, West Bengal, India",
     email: "ayushkumarsiani@gmail.com",
     phone: "+91 9795765428",
     
@@ -52,12 +46,12 @@ const ayushSaini = {
     },
     
     achievements: [
-        "🚀 Incoming Tech Intern @ Reachivy",
         "🥈 Silver Medal - General Championship Tech 2026",
         "🏆 98.68 percentile JEE Mains | Qualified JEE Advanced (Top 1.22%)",
         "🥇 Global Rank #850 - Codeforces Round 1045 Div. 2",
         "🥇 Global Rank #309 - LeetCode Weekly Contest 455",
-        "✨ Gold Prize - IIT KGP Illumination Fest"
+        "✨ Gold Prize - IIT KGP Illumination Fest",
+        "🏅 NSO Excellent Grade - 3 consecutive semesters"
     ],
     
     languages: ["English", "Hindi"],
@@ -81,24 +75,30 @@ const ayushSaini = {
 
 ### 🧠 Algorithmic Problem Solving
 
-![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-Expert-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
-![Graph Algorithms](https://img.shields.io/badge/Graph_Algorithms-Expert-4ECDC4?style=for-the-badge&logo=graphql&logoColor=white)
-![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-Expert-FFD93D?style=for-the-badge&logo=algolia&logoColor=black)
-![Data Structures](https://img.shields.io/badge/Data_Structures-Expert-A8E6CF?style=for-the-badge&logo=databricks&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Dynamic_Programming-Expert-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Graph_Algorithms-Expert-4ECDC4?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Algorithm_Design-Expert-FFD93D?style=for-the-badge&logo=algolia&logoColor=black" />
+<img src="https://img.shields.io/badge/Data_Structures-Expert-A8E6CF?style=for-the-badge&logo=databricks&logoColor=black" />
+</p>
 
 ### 💻 Development Expertise
 
-![Full Stack](https://img.shields.io/badge/Full_Stack_Dev-Advanced-6C5CE7?style=for-the-badge&logo=stackshare&logoColor=white)
-![Real-Time Systems](https://img.shields.io/badge/Real--Time_Systems-Advanced-00B894?style=for-the-badge&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-Intermediate-E84393?style=for-the-badge&logo=webrtc&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-Learning-FDCB6E?style=for-the-badge&logo=awesomelists&logoColor=black)
+<p>
+<img src="https://img.shields.io/badge/Full_Stack_Dev-Advanced-6C5CE7?style=for-the-badge&logo=stackshare&logoColor=white" />
+<img src="https://img.shields.io/badge/Real--Time_Systems-Advanced-00B894?style=for-the-badge&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-Intermediate-E84393?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Design-Learning-FDCB6E?style=for-the-badge&logo=awesomelists&logoColor=black" />
+</p>
 
 ### 🤖 Machine Learning & AI
 
-![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-Certified-0984E3?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-Certified-6C5CE7?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-Certified-E17055?style=for-the-badge&logo=keras&logoColor=white)
-![Recommender Systems](https://img.shields.io/badge/Recommender_Systems-Certified-00B894?style=for-the-badge&logo=semanticscholar&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Supervised_Learning-Certified-0984E3?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Unsupervised_Learning-Certified-6C5CE7?style=for-the-badge&logo=scikit--learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Reinforcement_Learning-Certified-E17055?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Recommender_Systems-Certified-00B894?style=for-the-badge&logo=semanticscholar&logoColor=white" />
+</p>
 
 </div>
 
@@ -106,54 +106,58 @@ const ayushSaini = {
 
 ## 🛠️ Technology Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
 ### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge)
 
-</td>
-<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/Recharts-FF6B6B?style=for-the-badge" />
+</p>
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</p>
 
 ### Real-Time & Communication
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge)
+
+<p>
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-4A90E2?style=for-the-badge" />
+</p>
 
 ### DevOps & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
@@ -197,33 +201,6 @@ const ayushSaini = {
 
 ---
 
-## 💼 Professional Experience
-
-<div align="center">
-
-### 🚀 Incoming Tech Intern — **Reachivy**
-**Starting Soon** | Remote
-
-```mermaid
-graph LR
-    A[Selected as Tech Intern] --> B[Full Stack Development]
-    A --> C[System Integration]
-    A --> D[Real-Time Features]
-    B --> E[React + Node.js]
-    C --> F[API Development]
-    D --> G[WebRTC/Sockets]
-```
-
-**Focus Areas:**
-- Full-stack web application development
-- Real-time communication features
-- System architecture and API design
-- Collaborative software engineering
-
-</div>
-
----
-
 ## 🏆 Competitive Programming Journey
 
 <div align="center">
@@ -261,7 +238,6 @@ Hard    ████████████░░░░░░░░  500+ probl
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AYUSHSAINI9876&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=Ayush's%20GitHub%20Stats&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170"/>
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYUSHSAINI9876&layout=compact&theme=github_dark&hide_border=true&langs_count=10&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
 
 </div>
@@ -308,16 +284,11 @@ Hard    ████████████░░░░░░░░  500+ probl
 
 ## 💼 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 📡 [ZConnect](https://github.com/AYUSHSAINI9876/ZConnect)
-**Full-Stack WebRTC Video Platform**
+### 📡 [ZConnect](https://github.com/AYUSHSAINI9876/ZConnect) — Full-Stack WebRTC Video Platform
 
 `WebRTC` `Node.js` `WebSockets` `JWT` `Express.js` `JavaScript`
 
-#### Key Features
+**Key Features:**
 - ✅ Custom WebRTC signaling server architecture
 - ✅ Peer-to-peer room management system
 - ✅ Real-time chat with typing indicators
@@ -333,15 +304,13 @@ Hard    ████████████░░░░░░░░  500+ probl
 
 **Impact:** Enables seamless multi-user video conferencing with enterprise-grade reliability.
 
-</td>
-<td width="50%">
+---
 
-### 💰 BalanceBox
-**Personal Finance Management System**
+### 💰 BalanceBox — Personal Finance Management System
 
 `React` `TypeScript` `Node.js` `MongoDB` `Recharts` `JWT` `bcrypt`
 
-#### Key Features
+**Key Features:**
 - ✅ Real-time financial dashboards with live updates
 - ✅ Full CRUD operations for income/expenses
 - ✅ Interactive Recharts data visualizations
@@ -357,18 +326,13 @@ Hard    ████████████░░░░░░░░  500+ probl
 
 **Impact:** Helps users track, analyze, and optimize spending patterns with actionable insights.
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
-
-### 🔧 CodeForge
-**Git-Like Version Control System**
+### 🔧 CodeForge — Git-Like Version Control System
 
 `MERN` `Redux Toolkit` `React Context` `JWT` `Mongoose`
 
-#### Key Features
+**Key Features:**
 - ✅ Git-inspired commit & version tracking
 - ✅ Branch creation, switching, and management
 - ✅ Intelligent merge with conflict detection
@@ -384,15 +348,13 @@ Hard    ████████████░░░░░░░░  500+ probl
 
 **Impact:** Provides a lightweight, web-based VCS for educational purposes and small teams.
 
-</td>
-<td width="50%">
+---
 
-### 📄 [Resume Builder](https://github.com/AYUSHSAINI9876/Resume-builder)
-**No-Code Professional Resume Generator**
+### 📄 [Resume Builder](https://github.com/AYUSHSAINI9876/Resume-builder) — No-Code Professional Resume Generator
 
 `HTML5` `CSS3` `JavaScript` `jsPDF` `html2canvas` `localStorage`
 
-#### Key Features
+**Key Features:**
 - ✅ Pixel-perfect PDF export functionality
 - ✅ Multiple professional theme options
 - ✅ Custom font & color palette selection
@@ -409,10 +371,6 @@ Hard    ████████████░░░░░░░░  500+ probl
 
 **Impact:** Democratizes professional resume creation for non-technical users, reducing barriers to employment.
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🎓 Certifications & Professional Development
@@ -421,29 +379,14 @@ Hard    ████████████░░░░░░░░  500+ probl
 
 ### 🏅 Verified Certifications
 
-| 🎖️ Certification | 🏛️ Issuing Organization | 📅 Issued | 🔗 Credential |
-|:---|:---|:---:|:---:|
-| **Unsupervised Learning, Recommenders, Reinforcement Learning** | Coursera / Stanford University | 2024 | [Verify](https://coursera.org) |
-| **Machine Learning Specialization** | Coursera / Stanford University | 2024 | [Verify](https://coursera.org) |
-| **Supervised Machine Learning: Regression and Classification** | Coursera / Stanford University | 2024 | [Verify](https://coursera.org) |
-| **Graph Theory Programming Camp** | Competitive Programming Platform | 2024 | [Verify](#) |
-| **ICPSC Season 2 — Competitive Programming** | Indian CP & Science Community | 2024 | [Verify](#) |
-| **Full Stack Web Development** | Apna College | Apr 2025 | [Verify](#) |
-
-### 📚 Ongoing Learning
-
-```mermaid
-graph TD
-    A[Current Focus Areas] --> B[Advanced ML Algorithms]
-    A --> C[System Design at Scale]
-    A --> D[Graph Neural Networks]
-    B --> E[Deep Learning Fundamentals]
-    C --> F[Microservices Architecture]
-    D --> G[Network Analysis & Algorithms]
-    E --> H[Neural Networks & Backprop]
-    F --> I[Load Balancing & Caching]
-    G --> J[Community Detection Algorithms]
-```
+| 🎖️ Certification | 🏛️ Issuing Organization | 📅 Issued |
+|:---|:---|:---:|
+| **Unsupervised Learning, Recommenders, Reinforcement Learning** | Coursera / Stanford University | 2024 |
+| **Machine Learning Specialization** | Coursera / Stanford University | 2024 |
+| **Supervised Machine Learning: Regression and Classification** | Coursera / Stanford University | 2024 |
+| **Graph Theory Programming Camp** | Competitive Programming Platform | 2024 |
+| **ICPSC Season 2 — Competitive Programming** | Indian CP & Science Community | 2024 |
+| **Full Stack Web Development** | Apna College | Apr 2025 |
 
 </div>
 
@@ -478,91 +421,21 @@ graph TD
 
 ### 📚 Core Academic Coursework (IIT Kharagpur)
 
-<table align="center">
-<tr>
-<th width="25%">🧮 Mathematics</th>
-<th width="25%">💻 Computer Science</th>
-<th width="25%">⚡ Physics & Engineering</th>
-<th width="25%">⚗️ Chemistry (Core)</th>
-</tr>
-<tr>
-<td valign="top">
+**Mathematics:** Advanced Calculus • Linear Algebra • Numerical Analysis • Complex Analysis • Transform Calculus • Probability & Statistics
 
-• Advanced Calculus  
-• Linear Algebra  
-• Numerical Analysis  
-• Complex Analysis  
-• Transform Calculus  
-• Probability & Statistics
+**Computer Science:** Programming & Data Structures • Algorithms • High Performance Computing • Graph Theory
 
-</td>
-<td valign="top">
+**Physics & Engineering:** Quantum Physics • Electrical Technology • Basic Electronics
 
-• Programming & Data Structures  
-• Algorithms  
-• High Performance Computing  
-• Data Structures & Algorithms  
-• Graph Theory  
-• Computational Mathematics
-
-</td>
-<td valign="top">
-
-• Quantum Physics  
-• Electrical Technology  
-• Basic Electronics  
-• Circuit Theory  
-• Electromagnetic Theory  
-• —
-
-</td>
-<td valign="top">
-
-• Organic Chemistry  
-• Inorganic Chemistry  
-• Physical Chemistry  
-• Analytical Chemistry  
-• Spectroscopy  
-• Chemical Kinetics
-
-</td>
-</tr>
-</table>
+**Chemistry (Core):** Organic Chemistry • Inorganic Chemistry • Physical Chemistry • Analytical Chemistry
 
 </div>
 
 ---
 
-## 🏅 Honors & Awards Timeline
+## 🏅 Honors & Awards
 
 <div align="center">
-
-```mermaid
-timeline
-    title Achievement Timeline
-    2021 : CBSE Class X - 93.60%
-         : Selected for JEE preparation
-    2023 : CBSE Class XII - 89.40%
-         : JEE Mains 98.68 percentile
-         : JEE Advanced Qualified
-         : Admitted to IIT Kharagpur
-    2024 : Codeforces Specialist (1537)
-         : LeetCode Knight (1893)
-         : CF Round 1045 Global Rank 850
-         : ICPSC S2 Certification
-         : Machine Learning Certifications
-         : Graph Theory Programming Camp
-    2025 : LeetCode Weekly Global Rank 309
-         : Full Stack Development Certified
-         : 1000+ Codeforces problems
-         : 800+ LeetCode problems
-    2026 : GC Tech Silver Medal (2nd Place)
-         : IIT KGP Illumination Fest Gold Prize
-         : NSO Excellent Grade (3 semesters)
-         : Incoming Tech Intern @ Reachivy
-```
-
-### 🏆 Major Achievements
 
 | 🎖️ Achievement | 📅 Year | 🎯 Details |
 |:---|:---:|:---|
@@ -596,51 +469,29 @@ timeline
 
 ### Let's Connect & Collaborate!
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 📬 Email
-[ayushkumarsiani@gmail.com](mailto:ayushkumarsiani@gmail.com)
-
-</td>
-<td align="center" width="33%">
-
-#### 📱 Phone
-[+91 9795765428](tel:+919795765428)
-
-</td>
-<td align="center" width="33%">
-
-#### 📍 Location
-Kharagpur, West Bengal  
-(Originally from Jhānsi, UP)
-
-</td>
-</tr>
-</table>
+**📬 Email:** [ayushkumarsiani@gmail.com](mailto:ayushkumarsiani@gmail.com)  
+**📱 Phone:** [+91 9795765428](tel:+919795765428)  
+**📍 Location:** Kharagpur, West Bengal, India
 
 ### 🔗 Social & Professional Links
 
+<p>
 <a href="https://github.com/AYUSHSAINI9876">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ayush-saini-5aa0052a8">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/Saini_Ayush">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://leetcode.com/u/AYUSH_SAINI_9876/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="35"/>
 </a>
-&nbsp;&nbsp;
 <a href="mailto:ayushkumarsiani@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
+</p>
 
 </div>
 
@@ -672,38 +523,7 @@ Kharagpur, West Bengal
 
 ![Snake animation](https://raw.githubusercontent.com/AYUSHSAINI9876/AYUSHSAINI9876/output/github-contribution-grid-snake-dark.svg)
 
-*Watch my contributions get eaten by the snake! 🐍*
-
 </div>
-
----
-
-## 🎯 Current Goals & Focus
-
-```mermaid
-mindmap
-  root((Ayush Saini))
-    Career
-      Excel at Reachivy Internship
-      Build Production-Ready Projects
-      Contribute to Open Source
-      Master System Design
-    Competitive Programming
-      Reach Expert on Codeforces
-      Guardian on LeetCode
-      Solve 2000+ Problems
-      Participate in ICPC
-    Learning
-      Deep Learning Fundamentals
-      Advanced Graph Algorithms
-      Microservices Architecture
-      Cloud Technologies AWS GCP
-    Personal Development
-      Technical Writing
-      Public Speaking
-      Mentorship
-      Community Building
-```
 
 ---
 
