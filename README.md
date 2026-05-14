@@ -16,56 +16,39 @@
 
 ## 🧑‍💻 About Me
 
-```typescript
-const ayushSaini = {
-    title: "Full Stack Developer & Competitive Programmer",
-    education: "B.S.(Hons.) Chemistry @ IIT Kharagpur",
-    location: "Kharagpur, West Bengal, India",
-    email: "ayushkumarsiani@gmail.com",
-    phone: "+91 9795765428",
-    
-    currentFocus: [
-        "WebRTC & Real-Time Communication Systems",
-        "Machine Learning & Recommender Systems",
-        "MERN Stack Development",
-        "Competitive Programming"
-    ],
-    
-    topSkills: {
-        algorithms: ["Dynamic Programming", "Graph Algorithms", "Algorithm Design"],
-        development: ["Full Stack Web Dev", "Real-Time Systems", "WebRTC"],
-        ml: ["Supervised Learning", "Unsupervised Learning", "Reinforcement Learning"]
-    },
-    
-    competitiveProgramming: {
-        totalProblems: 1800,
-        platforms: {
-            codeforces: { rating: 1537, rank: "Specialist", bestRank: 850 },
-            leetcode: { rating: 1893, rank: "Knight", bestRank: 309 }
-        }
-    },
-    
-    achievements: [
-        "🥈 Silver Medal - General Championship Tech 2026",
-        "🏆 98.68 percentile JEE Mains | Qualified JEE Advanced (Top 1.22%)",
-        "🥇 Global Rank #850 - Codeforces Round 1045 Div. 2",
-        "🥇 Global Rank #309 - LeetCode Weekly Contest 455",
-        "✨ Gold Prize - IIT KGP Illumination Fest",
-        "🏅 NSO Excellent Grade - 3 consecutive semesters"
-    ],
-    
-    languages: ["English", "Hindi"],
-    
-    currentlyLearning: [
-        "Advanced Machine Learning Algorithms",
-        "System Design at Scale",
-        "Graph Theory & Network Algorithms",
-        "Reinforcement Learning"
-    ],
-    
-    funFact: "I merge chemistry precision with code elegance ⚗️💻"
-};
-```
+<table>
+<tr>
+<td width="50%">
+
+### 👤 Identity
+- 🎓 **B.S.(Hons.) Chemistry** @ IIT Kharagpur
+- 📍 Kharagpur, West Bengal, India
+- 📧 ayushkumarsiani@gmail.com
+- 📱 +91 9795765428
+
+### 🎯 Current Focus
+- 📡 WebRTC & Real-Time Communication Systems
+- 🤖 Machine Learning & Recommender Systems
+- 🌐 MERN Stack Development
+- ⚡ Competitive Programming
+
+</td>
+<td width="50%">
+
+### 🏆 Quick Highlights
+- 🥈 Silver Medal — GC Tech 2026, IIT KGP
+- 📊 98.68 percentile JEE Mains (Top 1.22%)
+- 🥇 Global Rank **#850** — Codeforces Round 1045
+- 🥇 Global Rank **#309** — LeetCode Weekly 455
+- ✨ Gold Prize — IIT KGP Illumination Fest
+- 🏅 NSO Excellent Grade — 3 consecutive semesters
+
+### 💡 Fun Fact
+> *I merge chemistry precision with code elegance ⚗️💻*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -188,11 +171,11 @@ const ayushSaini = {
 ║  Unsupervised Learning     ██████████████░░░░░░  70%           ║
 ║  Recommender Systems       █████████████░░░░░░░  65%           ║
 ║  Reinforcement Learning    ████████████░░░░░░░░  60%           ║
-║  Graph Theory              ███████████████████░░  95%           ║
+║  Graph Theory              ███████████████████░  95%           ║
 ╠════════════════════════════════════════════════════════════════╣
 ║  DEVOPS & TOOLS                                                ║
 ╠════════════════════════════════════════════════════════════════╣
-║  Git / GitHub              ███████████████████░░  95%           ║
+║  Git / GitHub              ███████████████████░  95%           ║
 ║  Docker                    ███████████████░░░░░  75%           ║
 ║  System Design             ██████████████░░░░░░  70%           ║
 ║  CI/CD Basics              ████████████░░░░░░░░  60%           ║
@@ -245,12 +228,6 @@ Hard    ████████████░░░░░░░░  500+ probl
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYUSHSAINI9876&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=58A6FF&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AYUSHSAINI9876&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff"/>
 
 </div>
 
@@ -507,26 +484,6 @@ Hard    ████████████░░░░░░░░  500+ probl
 
 ---
 
-## 📊 Detailed Activity Metrics
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AYUSHSAINI9876&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍 Contribution Snake Animation
-
-![Snake animation](https://raw.githubusercontent.com/AYUSHSAINI9876/AYUSHSAINI9876/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72"/>
@@ -548,7 +505,7 @@ Hard    ████████████░░░░░░░░  500+ probl
 
 <div align="center">
 
-![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-January%202025-blue?style=flat-square)
+![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-May%202026-blue?style=flat-square)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-Yes-green?style=flat-square)
 ![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=flat-square)
 
