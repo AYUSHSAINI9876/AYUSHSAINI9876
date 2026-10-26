@@ -37,16 +37,36 @@
 
 ## 👨‍💻 About me
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg">
+  <img alt="ayush.ts: B.S. (Hons.) Chemistry at IIT Kharagpur (2023 – 2027). Builds ML systems you can audit, LLM infrastructure, low-latency C++ and real-time web apps. Open to SDE and ML / data science roles, class of 2027." src="./assets/about-dark.svg" width="100%">
+</picture>
+
+<details>
+<summary><b>📋 Copy <code>ayush.ts</code> as text</b></summary>
+<br>
+
 ```ts
-const ayush = {
-  studies:      "B.S. (Hons.) Chemistry @ IIT Kharagpur · 2023 – 2027",
-  builds:       ["ML systems you can audit", "LLM infrastructure", "low-latency C++", "real-time web apps"],
-  languages:    ["C++20", "Python", "TypeScript", "Go", "SQL"],
-  lastRole:     "Summer Associate – Tech Intern @ ReachIvy (May – Jul 2026)",
-  askMeAbout:   ["fraud detection", "hybrid-search RAG", "matching engines", "WebRTC"],
-  motto:        "measure it, test it, then ship it",  // chemistry taught me to measure twice
-};
+// ayush.ts — the short version
+export class Engineer {
+  name       = "Ayush Kumar Saini";
+  studies    = "B.S. (Hons.) Chemistry @ IIT Kharagpur · 2023 – 2027";
+  builds     = ["ML systems you can audit", "LLM infrastructure", "low-latency C++", "real-time web apps"];
+  stack      = {
+    languages: ["C++20", "Python", "TypeScript", "Go", "SQL"],
+    ml:        ["XGBoost", "scikit-learn", "SHAP", "LlamaIndex", "Qdrant"],
+    backend:   ["FastAPI", "Django REST", "Node.js", "PostgreSQL", "Redis"],
+    infra:     ["Docker", "GitHub Actions", "Nginx", "Linux", "Vercel"],
+  };
+  lastRole   = "Summer Associate – Tech Intern @ ReachIvy (May – Jul 2026)";
+  openTo     = ["SDE", "ML / data science"];  // class of 2027
+  askMeAbout = ["fraud detection", "hybrid-search RAG", "matching engines", "WebRTC"];
+  motto      = () => "measure it, test it, then ship it";  // chemistry taught me to measure twice
+}
 ```
+
+</details>
 
 <a name="ai-ml"></a>
 
@@ -353,11 +373,12 @@ flowchart TB
 
 <a name="experience"></a>
 
-## 💼 Experience
+## 💼 Experience & education
 
-**Summer Associate – Tech Intern · [ReachIvy](https://www.reachivy.com)** (Reach Education Pvt. Ltd.) · Mumbai · May – Jul 2026<br>
-Full-stack work on **HelloIvy**, an AI-assisted college-counselling platform: document intelligence, real-time LLM counselling modules, entitlements and multi-tenancy.
-`Next.js` `TypeScript` `Django REST` `PostgreSQL`
+| | Role | When | What |
+|:--|:--|:--|:--|
+| 🏢 **[ReachIvy](https://www.reachivy.com)**<br><sub>Reach Education Pvt. Ltd.</sub> | **Summer Associate – Tech Intern** | May – Jul 2026<br><sub>Mumbai</sub> | Full-stack work on **HelloIvy**, an AI-assisted college-counselling platform: document intelligence, real-time LLM counselling modules, entitlements and multi-tenancy.<br>`Next.js` `TypeScript` `Django REST` `PostgreSQL` |
+| 🎓 **IIT Kharagpur** | **B.S. (Hons.) Chemistry** | 2023 – 2027 | Coursework includes programming & data structures, probability & statistics, linear algebra & numerical analysis, and high-performance scientific computing. |
 
 ## 🧰 Tech stack
 
@@ -429,11 +450,6 @@ Full-stack work on **HelloIvy**, an AI-assisted college-counselling platform: do
 | ↳ Unsupervised Learning, Recommenders, Reinforcement Learning | DeepLearning.AI & Stanford Online | 2026 | [✔](https://coursera.org/verify/RQTRKY9M5TWT) |
 | **ICPSC S2: Certificate of Excellence** | AlgoZenith | 2025 | [✔ verify](https://maang.in/courses/certificate?id=AZ251552171881299) |
 | **Delta: Full Stack Web Development** | Apna College | 2025 | — |
-
-## 🎓 Education
-
-**B.S. (Hons.) Chemistry, IIT Kharagpur** · 2023 – 2027<br>
-JEE (Advanced) 2023: **All India Rank 21,313**, top 11.8% of the 180,372 who sat both papers · JEE (Main) 2023: **98.69 percentile**, AIR 15,417
 
 ## 🤝 Let's connect
 
