@@ -355,7 +355,7 @@ flowchart TB
 
 ## 💼 Experience
 
-**Summer Associate – Tech Intern · [ReachIvy](https://www.reachivy.com)** (Reach Education Pvt. Ltd.) · Mumbai · May – Jul 2026
+**Summer Associate – Tech Intern · [ReachIvy](https://www.reachivy.com)** (Reach Education Pvt. Ltd.) · Mumbai · May – Jul 2026<br>
 Full-stack work on **HelloIvy**, an AI-assisted college-counselling platform: document intelligence, real-time LLM counselling modules, entitlements and multi-tenancy.
 `Next.js` `TypeScript` `Django REST` `PostgreSQL`
 
@@ -385,7 +385,7 @@ Full-stack work on **HelloIvy**, an AI-assisted college-counselling platform: do
 
 | Platform | Handle | Best | Highlights |
 |:--|:--|:--|:--|
-| <img alt="" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"> | [Saini_Ayush](https://codeforces.com/profile/Saini_Ayush) | **Specialist · 1537** | **850th of 17,637** in Round 1045 (Div. 2) · 50 rated contests · 1,150+ solved |
+| <img alt="" src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"> | [Saini_Ayush](https://codeforces.com/profile/Saini_Ayush) | **Specialist · 1537** | **850th of 17,637** in Round 1045 (Div. 2) · 1,150+ solved |
 | <img alt="" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"> | [AYUSH_SAINI_9876](https://leetcode.com/u/AYUSH_SAINI_9876/) | **1893** peak rating | **309th** in Weekly Contest 455 · top 7% · 1,000+ solved · 500-day badge |
 
 <picture>
@@ -432,7 +432,7 @@ Full-stack work on **HelloIvy**, an AI-assisted college-counselling platform: do
 
 ## 🎓 Education
 
-**B.S. (Hons.) Chemistry, IIT Kharagpur** · 2023 – 2027
+**B.S. (Hons.) Chemistry, IIT Kharagpur** · 2023 – 2027<br>
 JEE (Advanced) 2023: **All India Rank 21,313**, top 11.8% of the 180,372 who sat both papers · JEE (Main) 2023: **98.69 percentile**, AIR 15,417
 
 ## 🤝 Let's connect
